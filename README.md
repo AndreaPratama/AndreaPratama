@@ -27,4 +27,4 @@ Check out my work on:
   - Medium : [Andreas Miftakhul Pratama](https://medium.com/@andreapratama04)
 
 
---> Let's connect and explore the world of data together!
+--> <span style="color: rgb(102, 153, 204);">Let's connect and explore the world of data together!</span>
