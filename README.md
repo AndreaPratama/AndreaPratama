@@ -9,9 +9,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Data Project
 - 💬 Ask me about Anything
-- 📫 How to reach me:  [Email](andreapratama04@gmail.com)
-                        [Whatsapp](+62 823 3694 8803)
-                        [Telegram](+62 878 5503 1173)
+- 📫 How to reach me:
+  - [Email](mailto:andreapratama04@gmail.com)
+  - [WhatsApp](https://wa.me/6282336948803)
+  - [Telegram](https://t.me/andreapratama)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've won gaming competitions and won titles in regional tournaments! 🎮🏆
 
