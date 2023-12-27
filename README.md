@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently for a Job or Freelance opportunities
+- 🔭 I’m currently looking for a Job or Freelance opportunities
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Data Project related to:
   - Data Analysis and Visualization
