@@ -14,6 +14,7 @@ Here are some ideas to get you started:
   - Power BI Dashboard Development
 - 💬 Ask me about Anything
 - 📫 How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/andreas-mp/)
   - [Email](mailto:andreapratama04@gmail.com)
   - [WhatsApp](https://wa.me/6282336948803)
   - [Telegram](https://t.me/6287855031173)
