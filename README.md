@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I've won gaming competitions and won titles in regional tournaments! 🎮🏆
 
 Check out my work on:
-Github : [AndreaPratama](https://github.com/AndreaPratama)
-Novypro : [Andrea Pratama](https://www.novypro.com/profile_projects/andreapratama)
-Medium : [Andreas Miftakhul Pratama](https://medium.com/@andreapratama04)
+  - Github : [AndreaPratama](https://github.com/AndreaPratama)
+  - Novypro : [Andrea Pratama](https://www.novypro.com/profile_projects/andreapratama)
+  - Medium : [Andreas Miftakhul Pratama](https://medium.com/@andreapratama04)
 
 
 --> Let's connect and explore the world of data together!
