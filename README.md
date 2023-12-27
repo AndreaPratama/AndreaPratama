@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   - [Email](mailto:andreapratama04@gmail.com)
   - [WhatsApp](https://wa.me/6282336948803)
-  - [Telegram](https://t.me/andreapratama)
+  - [Telegram](https://t.me/6287855031173)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've won gaming competitions and won titles in regional tournaments! 🎮🏆
 
