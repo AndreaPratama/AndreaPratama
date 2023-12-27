@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **AndreaPratama/AndreaPratama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,5 +21,4 @@ Novypro : [Andrea Pratama](https://www.novypro.com/profile_projects/andreapratam
 Medium : [Andreas Miftakhul Pratama](https://medium.com/@andreapratama04)
 
 
-Let's connect and explore the world of data together!
--->
+--> Let's connect and explore the world of data together!
