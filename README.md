@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I've won gaming competitions and won titles in regional tournaments! 🎮🏆
 
 Check out my work on:
+  - Portfolio : [AndreasPorfolio](https://andreasportfolio.netlify.app/)
   - Github : [AndreaPratama](https://github.com/AndreaPratama)
   - Novypro : [Andrea Pratama](https://www.novypro.com/profile_projects/andreapratama)
   - Medium : [Andreas Miftakhul Pratama](https://medium.com/@andreapratama04)
