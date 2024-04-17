@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andreas Miftakhul Pratama</h1>
-<h3 align="center">A Passionate Data Analyst with a knack for solving problems. Committed to extracting valuable insights from data to drive informed decisions. Eager to take on new challenges in Data Analysis.</h3>
+<h3 align="center">A Passionate Data Analyst with a knack for solving problems. Committed to extracting valuable insights from data to drive informed decisions.</h3>
 
 - 🌱 I’m currently learning **Python and Front End Developer**
 
