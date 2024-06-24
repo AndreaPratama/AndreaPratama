@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@andreapratama04](https://medium.com/@andreapratama04)
 
-- 💬 Ask me about **Data Analyst**
+- 💬 Ask me about **Data**
 
 - 📫 How to reach me **andreapratama04@gmail.com**
 
