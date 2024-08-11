@@ -8,9 +8,9 @@
   - Database Management (Microsoft SQL Server, PostgreSQL)
   - Power BI Dashboard Development
 
-- 👨‍💻 All of my portfolio are available at [https://andreasportfolio.netlify.app/](https://andreasportfolio.netlify.app/)
+- 👨‍💻 All of my portfolio are available at [Andre's Portfolio](https://andre-portfolio-mu.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@andreapratama04](https://medium.com/@andreapratama04)
+- 📝 I regularly write articles on [Medium](https://medium.com/@andreapratama04)
 
 - 💬 Ask me about **Data**
 
