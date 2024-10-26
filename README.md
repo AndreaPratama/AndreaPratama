@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andreas Miftakhul Pratama</h1>
 <h3 align="center">A Passionate Data Analyst with a knack for solving problems. Committed to extracting valuable insights from data to drive informed decisions.</h3>
 
-- 🌱 I’m currently learning **Python and Front End Developer** , as well as anything related to data and IT to enhance my skills and take them to the next level. As a Data Analyst, I am committed to not only advancing my new skills but also expanding my expertise in other areas to continue growing professionally.
+- 🌱 I’m currently learning **Python** , as well as anything related to data and IT to enhance my skills and take them to the next level. As a Data Analyst, I am committed to not only advancing my new skills but also expanding my expertise in other areas to continue growing professionally.
 
 - 👯 I’m looking to collaborate on Data Project related to:
   - Data Analysis and Visualization
